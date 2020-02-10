@@ -1,0 +1,15 @@
+name: azuolo_theme
+type: theme
+description: 'New theme to compleate first Irmantas task for DRUPAL 8.'
+core: 8.x
+libraries:
+  - azuolo_theme/azuolo-libraries-main
+logo: images/logo.png
+screenshot: azuolo_theme.jpg
+regions:
+  header: Header
+  content: Content
+  sidebar: Sidebar
+  footer: Footer
+  page_top: Page top
+  page_bottom: Page bottom

@@ -1,0 +1,13 @@
+azuolo-libraries-main:
+  version: VERSION
+  css:
+    theme:
+      css/azuolo-libraries-main.css: {}
+  js:
+    js/azuolo-libraries-main.js: {}
+
+azuolo-libraries-sidebar:
+  version: VERSION
+  css:
+    theme:
+      css/azuolo-libraries-sidebar.css: {}
